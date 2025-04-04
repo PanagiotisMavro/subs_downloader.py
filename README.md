@@ -17,6 +17,15 @@ A simple Python script to download **English subtitles only** (manual or auto-ge
   ```bash
   pip install yt-dlp
 
+
+## If Problem for pip? Can help you (Working) Linux
+
+ - sudo apt install python3-venv
+ - python3 -m venv ~/myenv
+ - source ~/myenv/bin/activate
+
+
+
   🚀 Usage
   
 - python3 subs_downloader.py -u "https://www.youtube.com/watch?v=XXXXXXXX"
