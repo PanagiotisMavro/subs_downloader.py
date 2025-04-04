@@ -19,7 +19,7 @@ A simple Python script to download **English subtitles only** (manual or auto-ge
 
   🚀 Usage
   
-python subs_downloader.py -u "https://www.youtube.com/watch?v=XXXXXXXX"
+- python3 subs_downloader.py -u "https://www.youtube.com/watch?v=XXXXXXXX"
 This will download: VideoTitle.en.srt
 
     💡 Use Case Ideas
