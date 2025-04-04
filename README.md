@@ -16,3 +16,23 @@ A simple Python script to download **English subtitles only** (manual or auto-ge
   Install via pip:
   ```bash
   pip install yt-dlp
+
+  🚀 Usage
+  
+python subs_downloader.py -u "https://www.youtube.com/watch?v=XXXXXXXX"
+This will download: VideoTitle.en.srt
+
+    💡 Use Case Ideas
+
+  Translate YouTube videos
+
+  Study transcripts from talks, documentaries, or lectures
+
+   Extract subtitles for editing or reference
+
+  Help with accessibility tools
+
+     ⚠️ Disclaimer
+
+This tool is for educational and personal use. Always respect content ownership and YouTube's terms of service.
+  
